@@ -1,4 +1,4 @@
-// Задание N2
+console.log('Задание N2');
 
 let a1 = 5 % 3,
     a2 = 3 % 5,
@@ -38,7 +38,7 @@ console.log(a16, typeof a16);
 console.log(a17, typeof a17);
 console.log(a18, typeof a18);
 
-// Задание N3
+console.log('Задание N3');
 
 let wPryam = 10,
     hPryam = 23,
@@ -46,23 +46,22 @@ let wPryam = 10,
     
 console.log(SPryam);
 
-// Задание N4
+console.log('Задание N4');
 
-const MathPI = 3.14159;
 let hCilindra = 10,
     dCilindra = a7,
-    VCilindra = hCilindra * (MathPI * dCilindra);
+    VCilindra = hCilindra * (Math.PI * dCilindra);
     
 console.log(VCilindra);
 
-// Задание N5
+console.log('Задание N5');
 
 let rKruga = 5,
-    SKruga = MathPI * (rKruga * 2);
+    SKruga = Math.PI * (rKruga * 2);
 
 console.log(SKruga);
 
-// Задание N6
+console.log('Задание N6');
 
 let aTrap = 5,
     bTrap = 7,
@@ -71,7 +70,7 @@ let aTrap = 5,
 
 console.log(STrap);
 
-// Задание N7
+console.log('Задание N7');
 
 let S = 2000000,
     p = 10,
@@ -80,7 +79,7 @@ let S = 2000000,
 
 console.log(Pereplata);
 
-// Задание N8
+console.log('Задание N8');
 
 let a = 8,
     b = 3,
